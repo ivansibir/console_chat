@@ -1,6 +1,6 @@
-# Console Chat
+# Console chat
 
-Учебный проект: консольный чат. Делал один, чтобы быстрее сделать.
+Учебный проект: консольный чат.
 
 ## Установка
 
@@ -40,9 +40,9 @@
 
 _________________________________________________________________________________________________________________________________________
 
-# Console Chat
+# Console chat
 
-Description of the Console Chat project and its goals.
+Description of the Console chat project and its goals.
 
 ## Installation
 
